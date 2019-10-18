@@ -11,6 +11,7 @@ public class Main {
         showTriangle();
         showParallelogram();
         showDiamond(8);
+        showOdd();
     }
 
     private static void showDiamond(int size) {
@@ -38,7 +39,7 @@ public class Main {
     }
 
     private static void showParallelogram() {
-        for (int i = 1; i <=5; i++) {
+        for (int i = 1; i <= 5; i++) {
             //填充空格
             for (int j = 1; j <= 5 - i; j++) {
                 System.out.print(" ");
@@ -52,31 +53,52 @@ public class Main {
     }
 
     private static void showTriangle() {
-        for(int i=1;i<=5;i++){
-            for(int j=5; i<=j; j--)
+        for (int i = 1; i <= 5; i++) {
+            for (int j = 5; i <= j; j--)
                 System.out.print(" ");
-            for(int j=1; j<=i; j++)
+            for (int j = 1; j <= i; j++)
                 System.out.print("*");
-            for(int j=1; j<i; j++)
+            for (int j = 1; j < i; j++)
                 System.out.print("*");
             System.out.println();
         }
     }
 
     private static void showRect() {
-        for (int i =1;i<=5;i++){
+        for (int i = 1; i <= 5; i++) {
             System.out.print("*");
-            for (int j=1;j<5;j++){
+            for (int j = 1; j < 5; j++) {
                 System.out.print("*");
             }
             System.out.println();
         }
     }
 
-    private static void showNineNineForm(){
-        for(int i=1;i<=9;i++){
-            for (int j=1;j<=i;j++){
-                System.out.print(j+"*"+i+"="+j*i+"\t");
+    private static void showNineNineForm() {
+        for (int i = 1; i <= 9; i++) {
+            for (int j = 1; j <= i; j++) {
+                System.out.print(j + "*" + i + "=" + j * i + "\t");
+            }
+            System.out.println("");
+        }
+    }
+
+    /**
+     * 展示奇数
+     * 1
+     * 1	3
+     * 1	3	5
+     * 1	3	5	7
+     */
+    private static void showOdd() {
+        for (int i = 1; i < 9; i++) {
+            if (i % 2 != 0) {
+                for (int j = 1; j <= i; j++) {
+                    if (j % 2 != 0) {
+                        String b = String.valueOf(j);
+                        System.out.print(b + "\t");
+                    }
+                }
             }
             System.out.println("");
         }

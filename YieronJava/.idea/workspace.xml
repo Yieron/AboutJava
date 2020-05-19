@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ef7ec2dd-944a-43e9-b3da-a054ecbdd6e5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/YieronJava.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/YieronJava/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/YieronJava/MyGridLayout.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/YieronJava/MyH5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/YieronJava/MySingleTon.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/YieronJava/com/intellij/uiDesigner/core/AbstractLayout.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/YieronJava/com/intellij/uiDesigner/core/DimensionInfo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/YieronJava/com/intellij/uiDesigner/core/GridConstraints.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/YieronJava/com/intellij/uiDesigner/core/GridLayoutManager.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/YieronJava/com/intellij/uiDesigner/core/HorizontalInfo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/YieronJava/com/intellij/uiDesigner/core/LayoutState.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/YieronJava/com/intellij/uiDesigner/core/Spacer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/YieronJava/com/intellij/uiDesigner/core/SupportCode$TextWithMnemonic.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/YieronJava/com/intellij/uiDesigner/core/SupportCode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/YieronJava/com/intellij/uiDesigner/core/Util.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/YieronJava/com/intellij/uiDesigner/core/VerticalInfo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/YieronJava/learnjava/FirstChapter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/YieronJava/learnjava/ForthChapter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/YieronJava/learnjava/SecondChapter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/YieronJava/learnjava/ThirdChapter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/YieronJava/myBorderLayout.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/YieronJava/myCardLayout.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/YieronJava/myDialog$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/YieronJava/myDialog$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/YieronJava/myDialog$3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/YieronJava/myDialog$4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/YieronJava/myDialog.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/YieronJava/myFile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/YieronJava/myFlowLayout.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/YieronJava/myFormLayout.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/YieronJava/myFxmlFile.fxml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1bneKqy0UZhLstw3zhpZyFsTwvp" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="14" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="YieronJava" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ef7ec2dd-944a-43e9-b3da-a054ecbdd6e5" name="Default Changelist" comment="" />
+      <created>1589272223671</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589272223671</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="208" y="23" width="1024" height="817" key="#Project_Structure" timestamp="1589706895864">
+      <screen x="0" y="23" width="1440" height="817" />
+    </state>
+    <state x="208" y="23" width="1024" height="817" key="#Project_Structure/0.23.1440.817@0.23.1440.817" timestamp="1589706895864" />
+    <state x="184" y="91" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1589854254072">
+      <screen x="0" y="23" width="1440" height="817" />
+    </state>
+    <state x="184" y="90" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.810@0.23.1440.810" timestamp="1589277863042" />
+    <state x="184" y="91" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.817@0.23.1440.817" timestamp="1589854254072" />
+    <state x="457" y="226" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1589854240184">
+      <screen x="0" y="23" width="1440" height="817" />
+    </state>
+    <state x="457" y="226" key="#com.intellij.ide.util.TreeClassChooserDialog/0.23.1440.817@0.23.1440.817" timestamp="1589854240184" />
+    <state x="208" y="23" width="1024" height="817" key="SettingsEditor" timestamp="1589854120054">
+      <screen x="0" y="23" width="1440" height="817" />
+    </state>
+    <state x="208" y="23" key="SettingsEditor/0.23.1440.810@0.23.1440.810" timestamp="1589281180741" />
+    <state x="208" y="23" width="1024" height="817" key="SettingsEditor/0.23.1440.817@0.23.1440.817" timestamp="1589854120054" />
+    <state x="508" y="352" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1589712683923">
+      <screen x="0" y="23" width="1440" height="817" />
+    </state>
+    <state x="508" y="352" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1440.817@0.23.1440.817" timestamp="1589712683923" />
+    <state x="385" y="195" key="run.anything.popup" timestamp="1589712971841">
+      <screen x="0" y="23" width="1440" height="817" />
+    </state>
+    <state x="385" y="194" key="run.anything.popup/0.23.1440.810@0.23.1440.810" timestamp="1589277870009" />
+    <state x="385" y="195" key="run.anything.popup/0.23.1440.817@0.23.1440.817" timestamp="1589712971841" />
+  </component>
+</project>

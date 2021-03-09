@@ -20,53 +20,78 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ef7ec2dd-944a-43e9-b3da-a054ecbdd6e5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/YieronJava.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/YieronJava/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/YieronJava/MyGridLayout.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/YieronJava/MyH5.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/YieronJava/MySingleTon.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/YieronJava/com/intellij/uiDesigner/core/AbstractLayout.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/YieronJava/com/intellij/uiDesigner/core/DimensionInfo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/YieronJava/com/intellij/uiDesigner/core/GridConstraints.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/YieronJava/com/intellij/uiDesigner/core/GridLayoutManager.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/YieronJava/com/intellij/uiDesigner/core/HorizontalInfo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/YieronJava/com/intellij/uiDesigner/core/LayoutState.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/YieronJava/com/intellij/uiDesigner/core/Spacer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/YieronJava/com/intellij/uiDesigner/core/SupportCode$TextWithMnemonic.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/YieronJava/com/intellij/uiDesigner/core/SupportCode.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/YieronJava/com/intellij/uiDesigner/core/Util.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/YieronJava/com/intellij/uiDesigner/core/VerticalInfo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/YieronJava/learnjava/FirstChapter.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/YieronJava/learnjava/ForthChapter.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/YieronJava/learnjava/SecondChapter.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/YieronJava/learnjava/ThirdChapter.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/YieronJava/myBorderLayout.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/YieronJava/myCardLayout.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/YieronJava/myDialog$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/YieronJava/myDialog$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/YieronJava/myDialog$3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/YieronJava/myDialog$4.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/YieronJava/myDialog.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/YieronJava/myFile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/YieronJava/myFlowLayout.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/YieronJava/myFormLayout.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/YieronJava/myFxmlFile.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AboutJava.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BrooklynNets/ShowNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BrooklynNets/ShowShape.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/YieronJava/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/YieronJava/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/YieronJava/MyGridLayout.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/YieronJava/MyH5.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/YieronJava/MySingleTon.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/YieronJava/com/intellij/uiDesigner/core/AbstractLayout.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/YieronJava/com/intellij/uiDesigner/core/AbstractLayout.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/YieronJava/com/intellij/uiDesigner/core/DimensionInfo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/YieronJava/com/intellij/uiDesigner/core/DimensionInfo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/YieronJava/com/intellij/uiDesigner/core/GridConstraints.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/YieronJava/com/intellij/uiDesigner/core/GridConstraints.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/YieronJava/com/intellij/uiDesigner/core/GridLayoutManager.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/YieronJava/com/intellij/uiDesigner/core/GridLayoutManager.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/YieronJava/com/intellij/uiDesigner/core/HorizontalInfo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/YieronJava/com/intellij/uiDesigner/core/HorizontalInfo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/YieronJava/com/intellij/uiDesigner/core/LayoutState.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/YieronJava/com/intellij/uiDesigner/core/LayoutState.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/YieronJava/com/intellij/uiDesigner/core/Spacer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/YieronJava/com/intellij/uiDesigner/core/Spacer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/YieronJava/com/intellij/uiDesigner/core/SupportCode$TextWithMnemonic.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/YieronJava/com/intellij/uiDesigner/core/SupportCode$TextWithMnemonic.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/YieronJava/com/intellij/uiDesigner/core/SupportCode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/YieronJava/com/intellij/uiDesigner/core/SupportCode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/YieronJava/com/intellij/uiDesigner/core/Util.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/YieronJava/com/intellij/uiDesigner/core/Util.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/YieronJava/com/intellij/uiDesigner/core/VerticalInfo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/YieronJava/com/intellij/uiDesigner/core/VerticalInfo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/YieronJava/learnjava/FirstChapter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/YieronJava/learnjava/ForthChapter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/YieronJava/learnjava/SecondChapter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/YieronJava/learnjava/ThirdChapter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/YieronJava/myBorderLayout.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/YieronJava/myCardLayout.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/YieronJava/myDialog$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/YieronJava/myDialog$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/YieronJava/myDialog$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/YieronJava/myDialog$4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/YieronJava/myDialog.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/YieronJava/myFlowLayout.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/YieronJava/myFormLayout.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MyGridLayout.form" beforeDir="false" afterPath="$PROJECT_DIR$/src/layouts/MyGridLayout.form" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MyGridLayout.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/layouts/MyGridLayout.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MyH5.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MySingleTon.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/learnjava/FirstChapter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/learnjava/ForthChapter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/learnjava/SecondChapter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/learnjava/ThirdChapter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/myBorderLayout.form" beforeDir="false" afterPath="$PROJECT_DIR$/src/layouts/myBorderLayout.form" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/myBorderLayout.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/layouts/myBorderLayout.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/myCardLayout.form" beforeDir="false" afterPath="$PROJECT_DIR$/src/layouts/myCardLayout.form" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/myCardLayout.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/layouts/myCardLayout.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/myDialog.form" beforeDir="false" afterPath="$PROJECT_DIR$/src/layouts/myDialog.form" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/myDialog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/layouts/myDialog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/myFlowLayout.form" beforeDir="false" afterPath="$PROJECT_DIR$/src/layouts/myFlowLayout.form" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/myFlowLayout.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/layouts/myFlowLayout.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/myFormLayout.form" beforeDir="false" afterPath="$PROJECT_DIR$/src/layouts/myFormLayout.form" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/myFormLayout.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/layouts/myFormLayout.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="ProjectId" id="1bneKqy0UZhLstw3zhpZyFsTwvp" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -74,10 +99,16 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\myGithub\AboutJava\YieronJava\src\layouts" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" nameIsGenerated="true">
@@ -90,6 +121,7 @@
       </method>
     </configuration>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -114,34 +146,5 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="208" y="23" width="1024" height="817" key="#Project_Structure" timestamp="1589706895864">
-      <screen x="0" y="23" width="1440" height="817" />
-    </state>
-    <state x="208" y="23" width="1024" height="817" key="#Project_Structure/0.23.1440.817@0.23.1440.817" timestamp="1589706895864" />
-    <state x="184" y="91" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1589854254072">
-      <screen x="0" y="23" width="1440" height="817" />
-    </state>
-    <state x="184" y="90" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.810@0.23.1440.810" timestamp="1589277863042" />
-    <state x="184" y="91" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.817@0.23.1440.817" timestamp="1589854254072" />
-    <state x="457" y="226" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1589854240184">
-      <screen x="0" y="23" width="1440" height="817" />
-    </state>
-    <state x="457" y="226" key="#com.intellij.ide.util.TreeClassChooserDialog/0.23.1440.817@0.23.1440.817" timestamp="1589854240184" />
-    <state x="208" y="23" width="1024" height="817" key="SettingsEditor" timestamp="1589854120054">
-      <screen x="0" y="23" width="1440" height="817" />
-    </state>
-    <state x="208" y="23" key="SettingsEditor/0.23.1440.810@0.23.1440.810" timestamp="1589281180741" />
-    <state x="208" y="23" width="1024" height="817" key="SettingsEditor/0.23.1440.817@0.23.1440.817" timestamp="1589854120054" />
-    <state x="508" y="352" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1589712683923">
-      <screen x="0" y="23" width="1440" height="817" />
-    </state>
-    <state x="508" y="352" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1440.817@0.23.1440.817" timestamp="1589712683923" />
-    <state x="385" y="195" key="run.anything.popup" timestamp="1589712971841">
-      <screen x="0" y="23" width="1440" height="817" />
-    </state>
-    <state x="385" y="194" key="run.anything.popup/0.23.1440.810@0.23.1440.810" timestamp="1589277870009" />
-    <state x="385" y="195" key="run.anything.popup/0.23.1440.817@0.23.1440.817" timestamp="1589712971841" />
   </component>
 </project>

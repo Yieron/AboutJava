@@ -1,5 +1,8 @@
 import BrooklynNets.ShowNumber;
 import BrooklynNets.ShowShape;
+import GoldenStateWarriors.MyCircularQueueMain;
+import GoldenStateWarriors.MyQueue;
+import GoldenStateWarriors.MyQueueMain;
 
 /**
  * @author yindong
@@ -9,6 +12,6 @@ import BrooklynNets.ShowShape;
 public class Main {
 
     public static void main(String[] args) {
-
+        MyCircularQueueMain.MyCircularQueueMain();
     }
 }

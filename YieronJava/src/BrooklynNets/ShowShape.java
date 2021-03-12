@@ -63,6 +63,10 @@ public class ShowShape {
         }
     }
 
+    /**
+     * 展示矩形
+     * @param size
+     */
     public static void showRect(int size) {
         for (int i = 1; i <= size; i++) {
             System.out.print("*");

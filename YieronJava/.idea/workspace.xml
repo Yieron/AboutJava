@@ -20,58 +20,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ef7ec2dd-944a-43e9-b3da-a054ecbdd6e5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../AboutJava.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BrooklynNets/ShowNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BrooklynNets/ShowShape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GoldenStateWarriors/BFS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GoldenStateWarriors/MyCircularQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GoldenStateWarriors/MyCircularQueueMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GoldenStateWarriors/MyQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GoldenStateWarriors/MyQueueMain.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/YieronJava/BrooklynNets/ShowShape.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/YieronJava/BrooklynNets/ShowShape.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/YieronJava/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/YieronJava/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/YieronJava/MyGridLayout.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/YieronJava/MyH5.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/YieronJava/MySingleTon.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/YieronJava/com/intellij/uiDesigner/core/AbstractLayout.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/YieronJava/com/intellij/uiDesigner/core/AbstractLayout.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/YieronJava/com/intellij/uiDesigner/core/DimensionInfo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/YieronJava/com/intellij/uiDesigner/core/DimensionInfo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/YieronJava/com/intellij/uiDesigner/core/GridConstraints.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/YieronJava/com/intellij/uiDesigner/core/GridConstraints.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/YieronJava/com/intellij/uiDesigner/core/GridLayoutManager.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/YieronJava/com/intellij/uiDesigner/core/GridLayoutManager.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/YieronJava/com/intellij/uiDesigner/core/HorizontalInfo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/YieronJava/com/intellij/uiDesigner/core/HorizontalInfo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/YieronJava/com/intellij/uiDesigner/core/LayoutState.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/YieronJava/com/intellij/uiDesigner/core/LayoutState.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/YieronJava/com/intellij/uiDesigner/core/Spacer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/YieronJava/com/intellij/uiDesigner/core/Spacer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/YieronJava/com/intellij/uiDesigner/core/SupportCode$TextWithMnemonic.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/YieronJava/com/intellij/uiDesigner/core/SupportCode$TextWithMnemonic.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/YieronJava/com/intellij/uiDesigner/core/SupportCode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/YieronJava/com/intellij/uiDesigner/core/SupportCode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/YieronJava/com/intellij/uiDesigner/core/Util.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/YieronJava/com/intellij/uiDesigner/core/Util.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/YieronJava/com/intellij/uiDesigner/core/VerticalInfo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/YieronJava/com/intellij/uiDesigner/core/VerticalInfo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/YieronJava/learnjava/FirstChapter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/YieronJava/learnjava/ForthChapter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/YieronJava/learnjava/SecondChapter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/YieronJava/learnjava/ThirdChapter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/YieronJava/myBorderLayout.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/YieronJava/myCardLayout.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/YieronJava/myDialog$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/YieronJava/myDialog$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/YieronJava/myDialog$3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/YieronJava/myDialog$4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/YieronJava/myDialog.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/YieronJava/myFlowLayout.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/YieronJava/myFormLayout.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BrooklynNets/ShowShape.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BrooklynNets/ShowShape.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MyGridLayout.form" beforeDir="false" afterPath="$PROJECT_DIR$/src/layouts/MyGridLayout.form" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MyGridLayout.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/layouts/MyGridLayout.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MyH5.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MySingleTon.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/learnjava/FirstChapter.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/learnjava/ForthChapter.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/learnjava/SecondChapter.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/learnjava/ThirdChapter.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/myBorderLayout.form" beforeDir="false" afterPath="$PROJECT_DIR$/src/layouts/myBorderLayout.form" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/myBorderLayout.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/layouts/myBorderLayout.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/myCardLayout.form" beforeDir="false" afterPath="$PROJECT_DIR$/src/layouts/myCardLayout.form" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/myCardLayout.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/layouts/myCardLayout.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/myDialog.form" beforeDir="false" afterPath="$PROJECT_DIR$/src/layouts/myDialog.form" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/myDialog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/layouts/myDialog.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/myFlowLayout.form" beforeDir="false" afterPath="$PROJECT_DIR$/src/layouts/myFlowLayout.form" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/myFlowLayout.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/layouts/myFlowLayout.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/myFormLayout.form" beforeDir="false" afterPath="$PROJECT_DIR$/src/layouts/myFormLayout.form" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/myFormLayout.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/layouts/myFormLayout.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
